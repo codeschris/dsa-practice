@@ -6,5 +6,5 @@
 
 ## References
 
-- Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne: [!https://algs4.cs.princeton.edu/home/](https://algs4.cs.princeton.edu/home/)
-- VisualGo (for algorithms and pseodocode visualization through animation): [!https://visualgo.net/en/](https://visualgo.net/en/)
+- Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne: [https://algs4.cs.princeton.edu/home/](https://algs4.cs.princeton.edu/home/)
+- VisualGo (for algorithms and pseodocode visualization through animation): [https://visualgo.net/en/](https://visualgo.net/en/)
